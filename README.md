@@ -1,3 +1,10 @@
+# Week - 2
+```Hafta veya Ödev Sayısı (3)```
+
+# Homework 
+```Expense Tracking App
+```
+
 ### XOX GAME
 ![budgetgif](https://github.com/semanurcancan/budget-app/blob/master/budget.gif)
 
